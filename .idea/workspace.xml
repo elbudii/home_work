@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cbe5e3b-f42e-4822-b356-17cb0b1c53a4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/elbudii/homework1/ConditionExemples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/elbudii/homework1/HelloWorldPrinter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/elbudii/homework1/Primitives.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/elbudii/homework1/ClockAngel.java" afterPath="$PROJECT_DIR$/src/com/elbudii/homework1/ClockAngel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/elbudii/homework1/ConditionExemples.java" afterPath="$PROJECT_DIR$/src/com/elbudii/homework1/ConditionExemples.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/elbudii/homework1/SwitchValues.java" afterPath="$PROJECT_DIR$/src/com/elbudii/homework1/SwitchValues.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/elbudii/homework1/TriangelSquare.java" afterPath="$PROJECT_DIR$/src/com/elbudii/homework1/TriangelSquare.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SourceIt.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,41 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ClockAngel.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ClockAngel.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/elbudii/homework1/ClockAngel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TriangelSquare.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/elbudii/homework1/TriangelSquare.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SwitchValues.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/elbudii/homework1/SwitchValues.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Primitives.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/elbudii/homework1/Primitives.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2905983">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.1775457">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -88,13 +60,21 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/elbudii/homework1/HelloWorldPrinter.java" />
         <option value="$PROJECT_DIR$/src/com/elbudii/homework1/Primitives.java" />
-        <option value="$PROJECT_DIR$/src/com/elbudii/homework1/ConditionExemples.java" />
         <option value="$PROJECT_DIR$/../Lectures/Lecture1/src/com/kblyumkin/lecture1/homeWork/SwitchValues.java" />
-        <option value="$PROJECT_DIR$/src/com/elbudii/homework1/TriangelSquare.java" />
         <option value="$PROJECT_DIR$/src/com/elbudii/homework1/Switch.java" />
         <option value="$PROJECT_DIR$/lectures/src/com/kblyumkin/lecture1/homeWork/SwitchValues.java" />
         <option value="$PROJECT_DIR$/lectures/src/com/kblyumkin/lecture1/homeWork/TriangelSquare.java" />
         <option value="$PROJECT_DIR$/lectures/src/com/kblyumkin/lecture1/homeWork/ClockAngel.java" />
+        <option value="$PROJECT_DIR$/src/com/elbudii/lecture2/Lecture2.java" />
+        <option value="$PROJECT_DIR$/src/com/elbudii/lecture2/SwitchExample.java" />
+        <option value="$PROJECT_DIR$/src/com/elbudii/lecture2/LoopExemple.java" />
+        <option value="$PROJECT_DIR$/src/com/elbudii/homework1/SwitchValues.java" />
+        <option value="$PROJECT_DIR$/src/com/elbudii/homework1/ConditionExemples.java" />
+        <option value="$PROJECT_DIR$/src/com/elbudii/homework1/TriangelSquare.java" />
+        <option value="$PROJECT_DIR$/src/com/elbudii/homework1/ClockAngel.java" />
+        <option value="$PROJECT_DIR$/src/com/elbudii/homework1fix/ClockAngel.java" />
+        <option value="$PROJECT_DIR$/src/com/elbudii/homework1fix/SwitchValues.java" />
+        <option value="$PROJECT_DIR$/src/com/elbudii/homework1fix/TriangelSquare.java" />
       </list>
     </option>
   </component>
@@ -162,15 +142,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="elbudii" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SourceIt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SourceIt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elbudii" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="homework1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,20 +181,40 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lectures" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lectures" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ClockAngel">
-    <configuration default="false" name="HelloWorldPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ClockAngel (1)">
+    <configuration default="false" name="LoopExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.elbudii.lecture2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.elbudii.lecture2.LoopExemple" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SourceIt" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SwitchValues (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.elbudii.homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.elbudii.homework1.HelloWorldPrinter" />
+      <option name="MAIN_CLASS_NAME" value="com.elbudii.homework1.SwitchValues" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -205,34 +227,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="SwitchValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.kblyumkin.lecture1.homeWork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.kblyumkin.lecture1.homeWork.SwitchValues" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SourceIt" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ClockAngel (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.elbudii.homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.elbudii.homework1.Switch" />
+      <option name="MAIN_CLASS_NAME" value="com.elbudii.homework1.ClockAngel" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -245,14 +247,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ClockAngel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ConditionExemples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.kblyumkin.lecture1.homeWork.*" />
+          <option name="PATTERN" value="com.elbudii.homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.kblyumkin.lecture1.homeWork.ClockAngel" />
+      <option name="MAIN_CLASS_NAME" value="com.elbudii.homework1.ConditionExemples" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -268,11 +270,11 @@
     <configuration default="false" name="TriangelSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.kblyumkin.lecture1.homeWork.*" />
+          <option name="PATTERN" value="com.elbudii.homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.kblyumkin.lecture1.homeWork.TriangelSquare" />
+      <option name="MAIN_CLASS_NAME" value="com.elbudii.homework1.TriangelSquare" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -442,19 +444,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HelloWorldPrinter" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SwitchValues" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Switch" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ClockAngel" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LoopExemple" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SwitchValues (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ClockAngel (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ConditionExemples" />
       <item index="4" class="java.lang.String" itemvalue="Application.TriangelSquare" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ClockAngel" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SwitchValues" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TriangelSquare" />
-        <item index="3" class="java.lang.String" itemvalue="Application.HelloWorldPrinter" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Switch" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ClockAngel (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TriangelSquare" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ConditionExemples" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SwitchValues (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LoopExemple" />
       </list>
     </recent_temporary>
   </component>
@@ -472,16 +474,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32952693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18532526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -489,15 +493,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -537,7 +539,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -622,25 +626,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/elbudii/homework1/ConditionExemples.java">
+    <entry file="file://$PROJECT_DIR$/src/com/elbudii/homework1/Primitives.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/elbudii/homework1/ClockAngel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.44386423">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/elbudii/homework1/TriangelSquare.java">
+    <entry file="file://$PROJECT_DIR$/out/production/SourceIt/com/elbudii/homework1/TriangelSquare.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elbudii/homework1/ConditionExemples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31070495">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/SourceIt/com/elbudii/homework1/ClockAngel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.814815">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -653,10 +668,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/elbudii/homework1/Primitives.java">
+    <entry file="file://$PROJECT_DIR$/src/com/elbudii/homework1/TriangelSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2905983">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elbudii/homework1/ClockAngel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1775457">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>

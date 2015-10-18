@@ -1,4 +1,4 @@
-package com.kblyumkin.lecture1.homeWork;
+package com.elbudii.homework1;
 
 public class SwitchValues {
     public static void main(String[] args) {
