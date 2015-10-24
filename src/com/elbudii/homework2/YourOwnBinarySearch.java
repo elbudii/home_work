@@ -1,4 +1,4 @@
-package com.elbudii.homework3;
+package com.elbudii.homework2;
 
 import java.util.Arrays;
 
