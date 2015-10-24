@@ -18,18 +18,24 @@ public class MatrixMultiplier {
         int m = first.length;
         int n = first[0].length;
         int k = second.length;
+        int l = second[0].length;
         if (n != k) {
-            System.out.println("Mmultiply a matrix cannot");
+            System.out.println("Multiply a matrix cannot");
         }
-        int[][] resultat = new int[m][k];
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                resultat[i][j] = first[i][j] * second[j][i];
+        int[][] result = new int[m][l];
+        for (int e = 0; e < m; e++) {
+            for (int i = 0; i < l; i++) {
+               int sumElem = 0;
+
+                for (int j = 0; j < n; j++) {
+                    sumElem += ((first[e][j] * second[j][i]));
+                    result[e][i] = sumElem;
+                }
             }
         }
-        for (int r = 0; r < resultat.length; r++) {
-            for (int c = 0; c < resultat[r].length; c++)
-                System.out.print(resultat[r][c] + " ");
+        for (int r = 0; r < result.length; r++) {
+            for (int c = 0; c < result[r].length; c++)
+                System.out.print(result[r][c] + " ");
             System.out.println();
         }
     }
