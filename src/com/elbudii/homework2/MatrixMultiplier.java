@@ -15,19 +15,20 @@ public class MatrixMultiplier {
                 {7, 5, 1},
                 {3, 4, 6}
         };
-        int m = first.length;
-        int n = first[0].length;
-        int k = second.length;
-        int l = second[0].length;
-        if (n != k) {
+        if (first[0].length != second.length) {
             System.out.println("Multiply a matrix cannot");
         }
-        int[][] result = new int[m][l];
-        for (int e = 0; e < m; e++) {
-            for (int i = 0; i < l; i++) {
+       /* for (int e = 0; e < second.length; e++) {
+            for (int i = 0; i < second[e].length; e++) {
+
+            }
+        }*/
+        int[][] result = new int[first.length][second[0].length];
+        for (int e = 0; e < first.length; e++) {
+            for (int i = 0; i < second[0].length; i++) {
                int sumElem = 0;
 
-                for (int j = 0; j < n; j++) {
+                for (int j = 0; j < first[0].length; j++) {
                     sumElem += ((first[e][j] * second[j][i]));
                     result[e][i] = sumElem;
                 }
